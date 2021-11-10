@@ -1,0 +1,6 @@
+name = "MPCCLibrary"
+uuid = "53631b2c-6b03-4493-a2f7-41447ff9a64e"
+version = "0.1.0"
+authors = ["Caroline Nakama <caroline.s.nakama@ntnu.no>"]
+
+[deps]
