@@ -6,7 +6,8 @@ This library also contains an implementation of the first algorithm in [Leyffer 
 
 ## Documentation
 
-Documentation includes a description of the problems and a reference to the available functions. It is not available online yet, but if you download this repository you can generate them with the source files available. 
+Documentation includes a description of the problems and a reference to the available functions. You can find it [here](https://carolinesnakama.github.io)
+or build it yourself. For the latter, you can download this repository and generate the documentation with the source files available. 
 
 1- Make sure you have the Documenter package. Press `]` in the julia REPL to start the Pkg REPL
 ```julia
@@ -40,4 +41,6 @@ You can just download the problem you want from the `scripts` folder. The flash 
 ## Problems
 - Flash Tank Problem
 - Thermal Energy Storage Problem
+- Bioprocess Optimization Problem
+- Bilevel Optimization Problem
 - [MacMPEC Collection](https://wiki.mcs.anl.gov/leyffer/index.php/MacMPEC) by Sven Leyffer (originally written in AMPL).
